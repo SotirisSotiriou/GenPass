@@ -111,7 +111,7 @@ public class MainActivity extends AppCompatActivity {
         for(int i=0; i<4; i++){
             if(rules[i] == true) count++;
         }
-        if(length <= count){
+        if(length < count){
             Toast.makeText(this, "Password can not be generated, please select a bigger length", Toast.LENGTH_SHORT).show();
             return;
         }
