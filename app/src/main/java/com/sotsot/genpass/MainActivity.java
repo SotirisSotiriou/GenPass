@@ -102,6 +102,20 @@ public class MainActivity extends AppCompatActivity {
             return;
         }
 
+        int count = 0;
+        boolean[] rules = new boolean[4];
+        rules[0] = has_lowercase;
+        rules[1] = has_uppercase;
+        rules[2] = has_numbers;
+        rules[3] = has_symbols;
+        for(int i=0; i<4; i++){
+            if(rules[i] == true) count++;
+        }
+        if(length <= count){
+            Toast.makeText(this, "Password can not be generated, please select a bigger length", Toast.LENGTH_SHORT).show();
+            return;
+        }
+
         String password = Generator.generate(has_lowercase, has_uppercase, has_numbers, has_symbols, length);
 
         TextView passwordText = (TextView) findViewById(R.id.password_text);
