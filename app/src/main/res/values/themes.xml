@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.GenPass" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorPrimaryVariant">@color/light_mode_blue</item>
+        <item name="colorOnPrimary">@color/light_mode_blue</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/light_mode_blue</item>
+        <item name="colorSecondaryVariant">@color/light_mode_blue</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+        <item name="colorError">@color/red</item>
+        <item name="colorOnError">@color/white</item>
+    </style>
+</resources>

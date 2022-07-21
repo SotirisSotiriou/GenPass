@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GenPass</string>
+    <string name="reset_button_text">Reset</string>
+    <string name="generate_button_text">Generate</string>
+    <string name="copy_text">Copy to Clipboard</string>
+    <string name="lowercase_option">Lowercase Letters</string>
+    <string name="uppercase_option">Uppercase Letters</string>
+    <string name="number_option">Numbers</string>
+    <string name="symbol_option">Symbols</string>
+</resources>
