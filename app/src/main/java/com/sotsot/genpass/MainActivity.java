@@ -7,6 +7,7 @@ import android.content.ClipboardManager;
 import android.content.Context;
 import android.os.Bundle;
 import android.view.View;
+import android.widget.ImageButton;
 import android.widget.SeekBar;
 import android.widget.Switch;
 import android.widget.TextView;
@@ -23,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        MaterialButton copyButton = (MaterialButton) findViewById(R.id.copy_button);
+        ImageButton copyButton = (ImageButton) findViewById(R.id.copy_button);
         copyButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -31,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        MaterialButton resetButton = (MaterialButton) findViewById(R.id.reset_button);
+        ImageButton resetButton = (ImageButton) findViewById(R.id.reset_button);
         resetButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -39,7 +40,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        MaterialButton generateButton = (MaterialButton) findViewById(R.id.generate_button);
+        ImageButton generateButton = (ImageButton) findViewById(R.id.generate_button);
         generateButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {

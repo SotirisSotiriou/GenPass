@@ -5,8 +5,20 @@
       <map>
         <entry key="..\:/AndroidStudioProjects/GenPass/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.124" />
         <entry key="..\:/AndroidStudioProjects/GenPass/app/src/main/res/drawable/bottom_border_line.xml" value="0.136" />
+        <entry key="..\:/AndroidStudioProjects/GenPass/app/src/main/res/drawable/circle_button.xml" value="0.136" />
+        <entry key="..\:/AndroidStudioProjects/GenPass/app/src/main/res/drawable/ic_baseline_refresh_24.xml" value="0.136" />
+        <entry key="..\:/AndroidStudioProjects/GenPass/app/src/main/res/drawable/ic_copy.xml" value="0.136" />
+        <entry key="..\:/AndroidStudioProjects/GenPass/app/src/main/res/drawable/ic_password.xml" value="0.136" />
+        <entry key="..\:/AndroidStudioProjects/GenPass/app/src/main/res/drawable/ic_refresh.xml" value="0.136" />
+        <entry key="..\:/AndroidStudioProjects/GenPass/app/src/main/res/drawable/ic_reset.xml" value="0.136" />
+        <entry key="..\:/AndroidStudioProjects/GenPass/app/src/main/res/drawable/ic_tinywow_png_to_svg_3660981.xml" value="0.136" />
+        <entry key="..\:/AndroidStudioProjects/GenPass/app/src/main/res/layout/action_bar.xml" value="0.24923076923076923" />
         <entry key="..\:/AndroidStudioProjects/GenPass/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/AndroidStudioProjects/GenPass/app/src/main/res/layout/activity_main2.xml" value="0.24010416666666667" />
+        <entry key="..\:/AndroidStudioProjects/GenPass/app/src/main/res/layout/content_main.xml" value="0.25416666666666665" />
         <entry key="..\:/AndroidStudioProjects/GenPass/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.136" />
+        <entry key="..\:/AndroidStudioProjects/GenPass/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.136" />
+        <entry key="..\:/AndroidStudioProjects/GenPass/app/src/main/res/xml/settings.xml" value="0.253125" />
       </map>
     </option>
   </component>

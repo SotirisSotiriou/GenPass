@@ -2,9 +2,19 @@
     <string name="app_name">GenPass</string>
     <string name="reset_button_text">Reset</string>
     <string name="generate_button_text">Generate</string>
-    <string name="copy_text">Copy to Clipboard</string>
-    <string name="lowercase_option">Lowercase Letters</string>
-    <string name="uppercase_option">Uppercase Letters</string>
-    <string name="number_option">Numbers</string>
-    <string name="symbol_option">Symbols</string>
+    <string name="copy_button_text">Copy</string>
+    <string name="lowercase_option">a-z</string>
+    <string name="uppercase_option">A-Z</string>
+    <string name="number_option">0-9</string>
+    <string name="symbol_option"><![CDATA[./\"?_-+=#$%&*()!]]></string>
+    <string name="length_text_view">Length:</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
 </resources>

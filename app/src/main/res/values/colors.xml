@@ -4,6 +4,7 @@
     <attr name="backgroundColor" format="reference|color"/>
     <attr name="coloredTextColor" format="reference|color"/>
     <attr name="buttonColor" format="reference|color"/>
+    <attr name="actionBarTextColor" format="reference|color" />
 
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>

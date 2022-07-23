@@ -25,6 +25,7 @@
                                               <map>
                                                 <entry key="color" value="000000" />
                                                 <entry key="imagePath" value="C:\Users\SOTIRI~1\AppData\Local\Temp\ic_android_black_24dp.xml" />
+                                                <entry key="opacityPercent" value="60" />
                                               </map>
                                             </option>
                                           </PersistentState>
@@ -92,8 +93,8 @@
                                             <option name="values">
                                               <map>
                                                 <entry key="color" value="000000" />
-                                                <entry key="imagePath" value="C:\AndroidStudioProjects\GenPass\app\src\main\res\drawable-v24\GenPass_logo.png" />
-                                                <entry key="scalingPercent" value="106" />
+                                                <entry key="imagePath" value="C:\AndroidStudioProjects\GenPass\app\src\main\assets\GenPass_logo.png" />
+                                                <entry key="scalingPercent" value="102" />
                                                 <entry key="trimmed" value="true" />
                                               </map>
                                             </option>
@@ -130,6 +131,10 @@
                                     <map>
                                       <entry key="backgroundAssetType" value="COLOR" />
                                       <entry key="backgroundColor" value="ffffff" />
+                                      <entry key="generateLegacyIcon" value="false" />
+                                      <entry key="generateRoundIcon" value="false" />
+                                      <entry key="legacyIconShape" value="CIRCLE" />
+                                      <entry key="outputName" value="ic_genpass" />
                                     </map>
                                   </option>
                                 </PersistentState>
@@ -298,6 +303,44 @@
                                 </PersistentState>
                               </value>
                             </entry>
+                          </map>
+                        </option>
+                      </PersistentState>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </PersistentState>
+          </value>
+        </entry>
+        <entry key="vectorWizard">
+          <value>
+            <PersistentState>
+              <option name="children">
+                <map>
+                  <entry key="vectorAssetStep">
+                    <value>
+                      <PersistentState>
+                        <option name="children">
+                          <map>
+                            <entry key="clipartAsset">
+                              <value>
+                                <PersistentState>
+                                  <option name="values">
+                                    <map>
+                                      <entry key="url" value="jar:file:/C:/Program%20Files/Android/Android%20Studio/plugins/android/lib/android.jar!/images/material/icons/materialicons/refresh/baseline_refresh_24.xml" />
+                                    </map>
+                                  </option>
+                                </PersistentState>
+                              </value>
+                            </entry>
+                          </map>
+                        </option>
+                        <option name="values">
+                          <map>
+                            <entry key="assetSourceType" value="FILE" />
+                            <entry key="outputName" value="ic_tinywow_png_to_svg_3660981" />
+                            <entry key="sourceFile" value="C:\AndroidStudioProjects\GenPass\app\src\main\assets\tinywow_png_to_svg_3660981.svg" />
                           </map>
                         </option>
                       </PersistentState>
